@@ -31,4 +31,4 @@ after_success:
   -  docker push omugwane/udagram-api-feed:v2
   -  docker push omugwane/udagram-api-user:v2
   -  docker push omugwane/reverseproxy:v2
-  -  docker push omugwane/udagram-frontend:v2
+  -  docker push omugwane/udagram-frontend:v3
