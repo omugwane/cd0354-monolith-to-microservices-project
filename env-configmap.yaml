@@ -4,9 +4,9 @@ metadata:
   name: udagram-dev-env
 data:
   # property-like keys; each key maps to a simple value
-  POSTGRES_HOST: "udagram.ca9dgu8k9n0z.us-east-1.rds.amazonaws.com"
-  POSTGRES_DB: "udagram_db"
-  AWS_BUCKET: "arn:aws:s3:::omugwane-udagram-dev"
+  POSTGRES_HOST: "udagram.c60ellaioxyb.us-east-1.rds.amazonaws.com"
+  POSTGRES_DB: "udagram"
+  AWS_BUCKET: "arn:aws:s3:::udagram-bucket-dev-131022"
   AWS_REGION: "us-east-1"
   AWS_PROFILE: "default"
   JWT_SECRET: "testing"
